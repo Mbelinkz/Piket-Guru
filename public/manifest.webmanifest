@@ -1,0 +1,10 @@
+{
+  "name": "Piket Gerbang Guru",
+  "short_name": "Piket Gerbang",
+  "description": "Dokumentasi, jadwal, dan rekap piket gerbang guru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1d4ed8",
+  "lang": "id-ID"
+}

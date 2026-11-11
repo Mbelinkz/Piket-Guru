@@ -1,0 +1,29 @@
+{
+  "schoolName": "SD NEGERI 1 REJOSO",
+  "schoolSub": "Piket Gerbang Guru 5S",
+  "logoSekolahUrl": "/logo-sekolah.png",
+  "logoVisiUrl": "/logo-visi.png",
+  "jamMulai": "06:30",
+  "jamSelesai": "07:15",
+  "hariKerja": [
+    "Senin",
+    "Selasa",
+    "Rabu",
+    "Kamis",
+    "Jumat",
+    "Sabtu"
+  ],
+  "liburDates": [],
+  "coordinatorStaffId": "stf-1791983752015",
+  "documentTitle": "DAFTAR HADIR DAN JADWAL PIKET GURU GERBANG SEKOLAH",
+  "waEnabled": true,
+  "waAutoSend": true,
+  "waGroupName": "SD NEGERI 1 REJOSO",
+  "waGroupInviteLink": "",
+  "waGroupTarget": "120363419292763532@g.us",
+  "driveEnabled": false,
+  "driveAutoUpload": true,
+  "driveFolderUrl": "",
+  "supabaseEnabled": false,
+  "supabaseAutoSync": true
+}

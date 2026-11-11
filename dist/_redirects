@@ -1,0 +1,4 @@
+/api/piket      /.netlify/functions/piket        200
+/api/piket/*    /.netlify/functions/piket/:splat 200
+/*              /index.html                      200
+
